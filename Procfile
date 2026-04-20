@@ -1,1 +1,1 @@
-web: gunicorn lovely-taste-bot:app
+web: gunicorn master_bot:app
